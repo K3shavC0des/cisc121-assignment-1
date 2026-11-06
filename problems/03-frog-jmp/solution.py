@@ -1,7 +1,5 @@
-"""FrogJmp — complete only if this is one of your five chosen problems."""
+"""FrogJmp: write your own solution below."""
 
 
-def solution(*args):
-    """Replace this stub with your own solution and appropriate comments."""
-    raise NotImplementedError("Choose this problem and implement its solution")
-
+def solution(X, Y, D):
+    raise NotImplementedError("Write your solution here")

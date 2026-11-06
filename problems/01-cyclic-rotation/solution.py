@@ -1,7 +1,5 @@
-"""CyclicRotation — complete only if this is one of your five chosen problems."""
+"""CyclicRotation: write your own solution below."""
 
 
-def solution(*args):
-    """Replace this stub with your own solution and appropriate comments."""
-    raise NotImplementedError("Choose this problem and implement its solution")
-
+def solution(A, K):
+    raise NotImplementedError("Write your solution here")

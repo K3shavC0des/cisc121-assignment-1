@@ -2,5 +2,5 @@
 
 [Problem statement](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/)
 
-If you select this problem, add your handwritten pseudocode image to `pseudocode/` and complete `solution.py`.
+Write your own Python code in [solution.py](solution.py) and add a photo or tablet screenshot of your **handwritten** pseudocode to `pseudocode/`.
 
