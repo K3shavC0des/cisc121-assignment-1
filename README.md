@@ -1,6 +1,6 @@
 # CISC 121 — Assignment 1
 
-This repository is a workspace for five beginner problems from the [OnQ assignment](https://onq.queensu.ca/d2l/lms/dropbox/user/folder_submit_files.d2l?db=494699&grpid=0&isprv=0&bp=0&ou=1195653). The Python files contain only the required function signatures; write your own solutions in VS Code.
+This repository is a workspace for five beginner problems from the [OnQ assignment](https://onq.queensu.ca/d2l/lms/dropbox/user/folder_submit_files.d2l?db=494699&grpid=0&isprv=0&bp=0&ou=1195653). Each folder has a self-contained problem brief and a link to Codility's full statement. The Python files contain only the required function signatures; write your own solutions in VS Code.
 
 | # | Problem | Workspace |
 |---|---|---|
@@ -16,7 +16,8 @@ Each problem folder contains:
 
 - `solution.py` — an empty Python function starter.
 - `pseudocode/` — add a clear photo or tablet screenshot of your handwritten pseudocode.
-- `README.md` — the link to the original Codility problem.
+- `PROBLEM.md` — the task, examples, limits, and a link to the full official statement.
+- `README.md` — quick links to the brief and starter file.
 
 The repository also contains [CITATIONS.md](CITATIONS.md) for sources and AI use, plus [report/OUTLINE.md](report/OUTLINE.md) for the single PDF report required by OnQ.
 
