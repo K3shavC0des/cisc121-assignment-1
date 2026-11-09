@@ -1,6 +1,6 @@
 # CISC 121 — Assignment 1
 
-Five selected problems from the [CISC 121 OnQ assignment](https://onq.queensu.ca/d2l/lms/dropbox/user/folder_submit_files.d2l?db=494699&grpid=0&isprv=0&bp=0&ou=1195653). Each problem directory contains a brief, a Python file, and a place for handwritten pseudocode.
+Five selected problems from the [CISC 121 OnQ assignment](https://onq.queensu.ca/d2l/lms/dropbox/user/folder_submit_files.d2l?db=494699&grpid=0&isprv=0&bp=0&ou=1195653). Each problem directory contains a link to the official statement, a Python file, and a place for handwritten pseudocode.
 
 | # | Problem | Workspace |
 |---|---|---|
@@ -16,8 +16,7 @@ Each problem folder contains:
 
 - `solution.py` — file for the Python solution.
 - `pseudocode/` — handwritten pseudocode photos or tablet screenshots.
-- `PROBLEM.md` — task summary, examples, limits, and the official statement link.
-- `README.md` — links to the files in that directory.
+- `README.md` — the official problem link and local file links.
 
 Sources are listed in [CITATIONS.md](CITATIONS.md). The [report outline](report/OUTLINE.md) records the requirements for the single PDF submitted to OnQ.
 
