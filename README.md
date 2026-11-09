@@ -1,6 +1,6 @@
 # CISC 121 — Assignment 1
 
-This repository is a workspace for five beginner problems from the [OnQ assignment](https://onq.queensu.ca/d2l/lms/dropbox/user/folder_submit_files.d2l?db=494699&grpid=0&isprv=0&bp=0&ou=1195653). Each folder has a self-contained problem brief and a link to Codility's full statement. The Python files contain only the required function signatures; write your own solutions in VS Code.
+Five selected problems from the [CISC 121 OnQ assignment](https://onq.queensu.ca/d2l/lms/dropbox/user/folder_submit_files.d2l?db=494699&grpid=0&isprv=0&bp=0&ou=1195653). Each problem directory contains a brief, a Python file, and a place for handwritten pseudocode.
 
 | # | Problem | Workspace |
 |---|---|---|
@@ -10,23 +10,23 @@ This repository is a workspace for five beginner problems from the [OnQ assignme
 | 4 | [PermMissingElem](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/) | [04-perm-missing-elem](problems/04-perm-missing-elem/README.md) |
 | 5 | [PermCheck](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/) | [05-perm-check](problems/05-perm-check/README.md) |
 
-## Folder structure
+## Files
 
 Each problem folder contains:
 
-- `solution.py` — an empty Python function starter.
-- `pseudocode/` — add a clear photo or tablet screenshot of your handwritten pseudocode.
-- `PROBLEM.md` — the task, examples, limits, and a link to the full official statement.
-- `README.md` — quick links to the brief and starter file.
+- `solution.py` — file for the Python solution.
+- `pseudocode/` — handwritten pseudocode photos or tablet screenshots.
+- `PROBLEM.md` — task summary, examples, limits, and the official statement link.
+- `README.md` — links to the files in that directory.
 
-The repository also contains [CITATIONS.md](CITATIONS.md) for sources and AI use, plus [report/OUTLINE.md](report/OUTLINE.md) for the single PDF report required by OnQ.
+Sources are listed in [CITATIONS.md](CITATIONS.md). The [report outline](report/OUTLINE.md) records the requirements for the single PDF submitted to OnQ.
 
 ## Submission checklist
 
 - [ ] Solve the five problems in their `solution.py` files and add appropriate comments.
 - [ ] Write pseudocode **by hand** for each problem and add the images to the matching `pseudocode/` folders.
 - [ ] Record any AI tools or open-source resources used in `CITATIONS.md`.
-- [ ] Prepare one PDF report containing the pseudocode images, Python code, citations, a link to this GitHub repository, and a link to your AI conversation.
+- [ ] Prepare one PDF report containing the pseudocode images, Python code, citations, the GitHub repository link, and the required AI conversation link.
 - [ ] Upload the PDF to OnQ and click **Submit**. The listed deadline is **November 8, 2026 at 11:59 p.m.**
 
 The PDF can be kept locally in `report/`; `.gitignore` excludes PDFs there from GitHub.

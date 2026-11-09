@@ -4,7 +4,7 @@ Record every AI tool and open-source resource you use. Copy the relevant citatio
 
 | Problem | Tool or resource | Link | How it was used | Accessed |
 |---|---|---|---|---|
-| All five | OpenAI Codex | **Add the share link for this conversation** | Helped select the five problems and organize the repository; no solutions were retained | 2026-11-06 |
+| All five | OpenAI Codex | **Add the share link for this conversation** | Helped select the five problems, organize the repository, and draft the problem briefs; Python solutions were left empty | 2026-11-06 |
 | CyclicRotation | Codility problem statement | https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/ | Task requirements and examples | 2026-11-06 |
 | OddOccurrencesInArray | Codility problem statement | https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/ | Task requirements and examples | 2026-11-06 |
 | FrogJmp | Codility problem statement | https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/ | Task requirements and examples | 2026-11-06 |
