@@ -10,4 +10,3 @@ def solution(A, K):
 
     # Move the last K elements to the front.
     return A[-K:] + A[:-K]
-

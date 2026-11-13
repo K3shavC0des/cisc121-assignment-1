@@ -4,4 +4,3 @@ def solution(A):
     for value in A:
         unpaired ^= value
     return unpaired
-

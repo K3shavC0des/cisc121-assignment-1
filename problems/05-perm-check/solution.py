@@ -8,4 +8,3 @@ def solution(A):
         if number not in values:
             return 0
     return 1
-
